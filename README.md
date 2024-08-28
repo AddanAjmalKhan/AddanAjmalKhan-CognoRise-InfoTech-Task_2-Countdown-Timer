@@ -16,4 +16,4 @@ screen sizes.
 Implemented core functionalities for setting and counting down the timer.
 Added features for starting, pausing, and resetting the countdown, along with visual updates.
 
-⭐ Repository link: https://lnkd.in/d8yD8YUQ
+⭐ Repository link: https://github.com/AddanAjmalKhan/AddanAjmalKhan-CognoRise-InfoTech-Task_2-Countdown-Timer/tree/main
